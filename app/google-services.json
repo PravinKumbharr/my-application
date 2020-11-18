@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "611647206851",
+    "firebase_url": "https://covid19-66cf6.firebaseio.com",
+    "project_id": "covid19-66cf6",
+    "storage_bucket": "covid19-66cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611647206851:android:acc493fe89e3ca18adb976",
+        "android_client_info": {
+          "package_name": "com.solace.covidaftereffect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611647206851-gcdclh75o4sm6vjkmcr5gofit99ul26l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solace.covidaftereffect",
+            "certificate_hash": "cefd4b03c0a9ff347e853f7424eb2c5cd6a9e5d6"
+          }
+        },
+        {
+          "client_id": "611647206851-o99mcbpo3n1qivr49c8078vff68o54u0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs0jZoNF4Xwf6X6mrPqKfZVpBkXMiTt5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611647206851-o99mcbpo3n1qivr49c8078vff68o54u0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "611647206851-k1kcde0cdnsr0k7f9kqhrs7912nui5jk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.solace.Covid19"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
